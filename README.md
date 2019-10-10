@@ -1,2 +1,6 @@
-# MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+
+## 1.The Music of Frank Ocean
+ASDASDASDADASD
+
+## 2.
+asDASDASDASD
