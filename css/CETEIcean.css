@@ -1827,7 +1827,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt {
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::before {
   font-weight: bold;
-  content: '\a'"Composer: ";
+  content: "Composer: ";
   white-space: pre;
 }
 
