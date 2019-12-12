@@ -1,7 +1,6 @@
 # Marcello Laksono 2204494
 
-
-### WEEK 1
+## WEEK 1
 The Music of Frank Ocean
 
 *Frank Ocean* is one of the most prolific musicians of the decade. The decision to do my project on his discography is due to me being a huge fan of his music.
