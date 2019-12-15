@@ -19,4 +19,4 @@ A lot of Frank's music has been transcribed by people online in websites such as
 His music can be found on Streaming platforms such as Spotify, Apple Music and Youtube.
 
 
-[WEEK 2:>>]()
+[WEEK 2:>>](https://cellosux.github.io/MCA-2019/Week2/week2.html)
