@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<!DOCTYPE feature_vector_file [
+   <!ELEMENT feature_vector_file (comments, data_set+)>
+   <!ELEMENT comments (#PCDATA)>
+   <!ELEMENT data_set (data_set_id, section*, feature*)>
+   <!ELEMENT data_set_id (#PCDATA)>
+   <!ELEMENT section (feature+)>
+   <!ATTLIST section start CDATA ""
+                     stop CDATA "">
+   <!ELEMENT feature (name, v+)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT v (#PCDATA)>
+]>
+
+<feature_vector_file>
+
+   <comments></comments>
+
+	<data_set>
+		<data_set_id>/Users/marcellolaksono/Documents/EXAM/MCA-2019/data/SOLO_FRANK_OCEAN.mid</data_set_id>
+		<feature>
+			<name>Prevalence of Most Common Pitch</name>
+			<v>1.25E-1</v>
+		</feature>
+		<feature>
+			<name>Prevalence of Most Common Pitch Class</name>
+			<v>1.791E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitches</name>
+			<v>6.757E-1</v>
+		</feature>
+		<feature>
+			<name>Relative Prevalence of Top Pitch Classes</name>
+			<v>8.208E-1</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitches</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitch Classes</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Number of Common Pitches</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Pitch Variety</name>
+			<v>3.7E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Class Variety</name>
+			<v>1.1E1</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>5E1</v>
+		</feature>
+		<feature>
+			<name>Most Common Pitch</name>
+			<v>6.3E1</v>
+		</feature>
+		<feature>
+			<name>Mean Pitch</name>
+			<v>5.5E1</v>
+		</feature>
+		<feature>
+			<name>Importance of Bass Register</name>
+			<v>4.274E-1</v>
+		</feature>
+		<feature>
+			<name>Importance of Middle Register</name>
+			<v>5.456E-1</v>
+		</feature>
+		<feature>
+			<name>Importance of High Register</name>
+			<v>2.703E-2</v>
+		</feature>
+		<feature>
+			<name>Most Common Pitch Class</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Dominant Spread</name>
+			<v>6E0</v>
+		</feature>
+		<feature>
+			<name>Strong Tonal Centres</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Major or Minor</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Glissando Prevalence</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Average Range of Glissandos</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Vibrato Prevalence</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Microtone Prevalence</name>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>2E0</v>
+		</feature>
+		<feature>
+			<name>Mean Melodic Interval</name>
+			<v>3.386E0</v>
+		</feature>
+		<feature>
+			<name>Distance Between Most Prevalent Melodic Intervals</name>
+			<v>1E0</v>
+		</feature>
+		<feature>
+			<name>Vertical Interval Histogram</name>
+			<v>0E0</v>
+			<v>3.534E-3</v>
+			<v>2.414E-2</v>
+			<v>6.114E-2</v>
+			<v>1.17E-1</v>
+			<v>4.783E-2</v>
+			<v>1.485E-2</v>
+			<v>9.345E-2</v>
+			<v>2.511E-2</v>
+			<v>1.391E-2</v>
+			<v>2.027E-2</v>
+			<v>5.137E-3</v>
+			<v>1.296E-1</v>
+			<v>1.465E-2</v>
+			<v>3.806E-2</v>
+			<v>9.505E-2</v>
+			<v>4.196E-2</v>
+			<v>2.685E-2</v>
+			<v>7.846E-3</v>
+			<v>9.28E-2</v>
+			<v>2.059E-2</v>
+			<v>1.128E-2</v>
+			<v>4.842E-2</v>
+			<v>1.055E-2</v>
+			<v>7.114E-3</v>
+			<v>1.302E-3</v>
+			<v>1.853E-2</v>
+			<v>4.584E-4</v>
+			<v>2.166E-3</v>
+			<v>9.808E-4</v>
+			<v>3.615E-4</v>
+			<v>1.702E-3</v>
+			<v>9.825E-4</v>
+			<v>1.712E-4</v>
+			<v>3.39E-4</v>
+			<v>1.702E-3</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>1.955E-4</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>0E0</v>
+		</feature>
+		<feature>
+			<name>Average Number of Simultaneous Pitches</name>
+			<v>3.371E0</v>
+		</feature>
+		<feature>
+			<name>Chord Duration</name>
+			<v>4.495E-1</v>
+		</feature>
+		<feature>
+			<name>Seventh Chords</name>
+			<v>3.575E-2</v>
+		</feature>
+		<feature>
+			<name>Complex Chords</name>
+			<v>5.911E-3</v>
+		</feature>
+		<feature>
+			<name>Rhythmic Variability</name>
+			<v>4.138E-2</v>
+		</feature>
+		<feature>
+			<name>Average Note Duration</name>
+			<v>1.197E0</v>
+		</feature>
+		<feature>
+			<name>Initial Tempo</name>
+			<v>8E1</v>
+		</feature>
+	</data_set>
+
+</feature_vector_file>

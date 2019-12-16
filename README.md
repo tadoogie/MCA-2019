@@ -19,4 +19,25 @@ A lot of Frank's music has been transcribed by people online in websites such as
 His music can be found on Streaming platforms such as Spotify, Apple Music and Youtube.
 
 
-[NEXT](https://cellosux.github.io/MCA-2019/Week2/week2.html)
+# WEEK 2
+## Notated Music
+
+I decided to transcribe Frank Ocean's track 'Solo' from his sophomore album, 'Blonde'. This was done by ear and memory as I am a contemporarily trained in Piano.
+
+![MuseScore Screenshot](https://cellosux.github.io/MCA-2019/MEDIA/FRANK_OCEAN_SOLO_SCREENSHOT.png)
+
+
+
+# WEEK 3
+##  Encoding notated music
+
+The MuseScore file for the track can then be encoded into a .mei file and displayed using verovio as shown below
+
+![Verovio Screenshot](https://cellosux.github.io/MCA-2019/MEDIA/VEROVIO_SCREENSHOT.png)
+
+# WEEK 4
+##   Computational analytics of notated music
+
+The MuseScore file for the track can then be encoded into a .mei file and displayed using verovio as shown below
+
+![Verovio Screenshot](https://cellosux.github.io/MCA-2019/MEDIA/VEROVIO_SCREENSHOT.png)

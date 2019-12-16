@@ -1,15 +1,22 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
-        <fileDesc>
-            <titleStmt>
-                <title />
-                <respStmt />
-            </titleStmt>
-            <pubStmt></pubStmt>
-        </fileDesc>
+      <fileDesc>
+        <song xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="meischema.xsd">
+          <artist-name>Frank Ocean</artist-name>
+          <song-title>Solo</song-title>
+          <genre>RnB</genre>
+          <release-date>2016</release-date>
+          <album>Blonde</album>
+          <producer>Malay & Frank Ocean </producer>
+    </song>
+          <titleStmt>
+              <title />
+          </titleStmt>
+          <pubStmt></pubStmt>
+      </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001823401965">
             <appInfo xml:id="appinfo-0000000874600625">
                 <application xml:id="application-0000000882038769" isodate="2019-12-16T20:34:52" version="2.4.0-dev-facbfa6">
