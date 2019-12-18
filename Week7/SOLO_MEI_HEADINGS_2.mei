@@ -3,20 +3,48 @@
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
-      <titleStmt>
-         <title xml:id="piecetitle">Solo</title>
-   <album xml:id="album">Blonde</album>
-         <respStmt>
-            <persName xml:id="composer" role="composer">Frank Ocean</persName>
-            <persName xml:id="genre" role="genre">RnB</persName>
-            <persName xml:id="producer" role="producer">Malay</persName>
-      <persName role="encoder">Marcello Laksono</persName>
-      <persName role="Date of Release">Aug 20 2016</persName>
-      <persName role="Date Recorded">2013-2016</persName>
-         </respStmt>
-      </titleStmt>
-          <pubStmt></pubStmt>
-      </fileDesc>
+      <fileDesc>
+          <titleStmt>
+              <title>Solo</title>
+              <composer>Frank Ocean </composer>
+              <date>August 2016</date>
+              <respStmt>
+                  <resp>Encoded by</resp>
+                  <resp>Marcello Laksono</resp>
+              </respStmt>
+          </titleStmt>
+          <pubStmt>
+              <publisher>
+                  <corpName>University of Glasgow Information studies</corpName>
+              </publisher>
+             <address>
+                 <addrLine>
+                     <geogName>Glasgow</geogName>
+                 </addrLine>
+              </address>
+          </pubStmt>
+
+          </appInfo>
+          <projectDesc>
+              Music Curation 2019 project by Marcello Laksono 2204494
+          </projectDesc>
+
+      </encodingDesc>
+      <workList>
+          <work>
+              <key>
+                  F Minor
+              </key>
+              <meter>
+                  4/4
+              </meter>
+              <tempo>
+                  124 bpm
+              </tempo>
+              <creation>
+                    encoded 12 December 2019
+              </creation>
+      </fileDesc>    
         <encodingDesc xml:id="encodingdesc-0000001823401965">
             <appInfo xml:id="appinfo-0000000874600625">
                 <application xml:id="application-0000000882038769" isodate="2019-12-16T20:34:52" version="2.4.0-dev-facbfa6">
