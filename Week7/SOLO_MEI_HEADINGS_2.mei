@@ -3,56 +3,98 @@
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
-      <fileDesc>
-         <titleStmt>
-            <title xml:id="piecetitle">Solo</title>
-	        <album xml:id="album">Blonde</album>
-            <respStmt>
-               <persName xml:id="composer" role="composer">Frank Ocean and Malay</persName>
-		<persName xml:id="producer" role="producer">Malay</persName>    
-			   <persName role="encoder">Marcello Laksono</persName>
-            </respStmt>
-         </titleStmt>
-          <pubStmt>
-              <publisher>
-                  <corpName>University of Glasgow Information studies</corpName>
-              </publisher>
-             <address>
-                 <addrLine>
-                     <geogName>Glasgow</geogName>
-                 </addrLine>
-              </address>
-          </pubStmt>
-
-          </appInfo>
-          <projectDesc>
-              Music Curation 2019 project by Marcello Laksono 2204494
-          </projectDesc>
-
-      </encodingDesc>
-      <workList>
-          <work>
-              <key>
-                  F Minor
-              </key>
-              <meter>
-                  4/4
-              </meter>
-              <tempo>
-                  124 bpm
-              </tempo>
-              <creation>
-                    encoded 12 December 2019
-              </creation>
-      </fileDesc>    
-        <encodingDesc xml:id="encodingdesc-0000001823401965">
-            <appInfo xml:id="appinfo-0000000874600625">
-                <application xml:id="application-0000000882038769" isodate="2019-12-16T20:34:52" version="2.4.0-dev-facbfa6">
-                    <name xml:id="name-0000002057741493">Verovio</name>
-                    <p xml:id="p-0000000587020336">Transcoded from MusicXML</p>
+        <fileDesc>
+            <titleStmt>
+                <title class="mca">
+                   Solo
+                </title>
+                <title type="subtitle"> 
+                    by Frank Ocean
+                </title>
+                <arranger>
+                    Frank Ocean
+                </arranger>
+                <composer>
+                  
+                </composer>
+                <respStmt>
+                    <resp>Transcribed and encoded by</resp>
+                    <name>Marcello Laksono</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Music Curation final project</resp>
+                </respStmt>
+                <respStmt>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    First
+                </edition>
+            </editionStmt>
+            <extent unit="byte">
+                50800
+            </extent>
+            <pubStmt>
+				not published
+            </pubStmt>
+            <sourceDesc>
+                <source>
+                    <head>
+                        File produced by MuseScore.
+                    </head>
+                    <bibl>
+                        Music transcribed from audio recording 
+                    </bibl>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xml:id="encodingdesc-0000000292973141">
+            <appInfo xml:id="appinfo-0000001852410459">
+                <application xml:id="application-0000001820475887" isodate="2019-10-15T13:03:04" version="2.2.0-dev-c01b3a1-dirty">
+                    <name xml:id="name-0000000990935870">Verovio</name>
+                    <p xml:id="p-0000001813806678">Transcoded from MusicXML</p>
                 </application>
             </appInfo>
+            <projectDesc>
+               
+            </projectDesc>
+            <samplingDecl>
+                
+            </samplingDecl>
         </encodingDesc>
+        <workList>
+            <work>
+                <key>
+                    F minor
+                </key>
+                <meter>
+                   4/4
+                </meter>
+                <tempo>
+                    124 bpm
+                </tempo>
+                <creation>
+                    File created on Octobber 25, 2019.
+                </creation>
+                <history>
+                    <eventList>
+                        <event>
+                          
+                        </event>
+                    </eventList>
+                </history>
+                <perfMedium>
+                    <perfResList>
+                        <perfRes count="1">Piano</perfRes>
+                        <perfRes count="2">Vocals</perfRes>
+                    </perfResList>
+                </perfMedium>
+                <genre>
+                    Soundtrack
+                </genre>
+            </work>
+        </workList>
     </meiHead>
     <music>
         <body>
