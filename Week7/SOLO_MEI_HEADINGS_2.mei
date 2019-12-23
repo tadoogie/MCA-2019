@@ -4,15 +4,15 @@
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
       <fileDesc>
-          <titleStmt>
-              <title>Solo</title>
-              <composer>Frank Ocean </composer>
-              <date>August 2016</date>
-              <respStmt>
-                  <resp>Encoded by</resp>
-                  <resp>Marcello Laksono</resp>
-              </respStmt>
-          </titleStmt>
+         <titleStmt>
+            <title xml:id="piecetitle">Solo</title>
+	        <album xml:id="album">Blonde</album>
+            <respStmt>
+               <persName xml:id="composer" role="composer">Frank Ocean and Malay</persName>
+		<persName xml:id="producer" role="producer">Malay</persName>    
+			   <persName role="encoder">Marcello Laksono</persName>
+            </respStmt>
+         </titleStmt>
           <pubStmt>
               <publisher>
                   <corpName>University of Glasgow Information studies</corpName>
