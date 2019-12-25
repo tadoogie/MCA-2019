@@ -5,11 +5,11 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title class="mca">
+                <title>
                    Solo
                 </title>
                 <title type="subtitle"> 
-                    by Frank Ocean
+                    from Blonde
                 </title>
                 <arranger>
                     Frank Ocean
@@ -32,11 +32,8 @@
                     First
                 </edition>
             </editionStmt>
-            <extent unit="byte">
-                50800
-            </extent>
             <pubStmt>
-				not published
+		not published
             </pubStmt>
             <sourceDesc>
                 <source>
